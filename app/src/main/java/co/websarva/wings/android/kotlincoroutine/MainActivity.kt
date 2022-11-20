@@ -32,7 +32,12 @@ class MainActivity : AppCompatActivity() {
             Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                 .setAction("Action", null).show()
         }
-        main()
+        //mainCooperative1()
+        //mainCooperative2()
+        //mainHandleException()
+        //mainSuspendFunInFinally()
+        mainTimeOut()
+        //mainTimeOutNull()
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
